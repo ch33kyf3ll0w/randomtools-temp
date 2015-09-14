@@ -1,2 +1,2 @@
 # randomtools-temp
-d
+PS> .\CheckRDC.ps1 “DOMAIN\username”

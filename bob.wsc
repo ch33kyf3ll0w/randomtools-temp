@@ -2,7 +2,7 @@
 <component>
 <registration
 	description="EventLogger"
-	progid="bob.sct"
+	progid="bob.wsc"
 	version="1.00"
 	classid="{285910f7-aafc-4280-9295-78ec03eaa714}"
 >

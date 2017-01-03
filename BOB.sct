@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<component>
+<registration
+	description="EventLogger"
+	progid="bob.sct"
+	version="1.00"
+	classid="{285910f7-aafc-4280-9295-78ec03eaa714}"
+>
+</registration>
+
+<public>
+	<property name="WSCError" get="get_WSCError" />
+	<property name="EventLogger_Version" get="get_NTLog_Version" />
+	<method name="LogAnEvent" />
+	<event name="OnEventLogged" />
+	<event name="OnEventNotLogged" />
+</public>
+
+<script language="VBScript">
+<![CDATA[
+
+Sub LogAnEvent
+	msgbox("DDQWDWDQWDQWDQWDQWDWDQWD!")
+End Sub
+
+]]>
+</script>
+
+</component>

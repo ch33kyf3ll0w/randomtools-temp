@@ -10,7 +10,7 @@
 
 <script language="VBScript">
 <![CDATA[
-
+	msgbox("hi!")
 
 ]]>
 </script>

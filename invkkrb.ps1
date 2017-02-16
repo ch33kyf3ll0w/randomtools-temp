@@ -1,5 +1,7 @@
 <#
 
+$HashFormat = '$krb5tgs$23$*ID#124_DISTINGUISHED NAME: CN=fakesvc,OU=Service,OU=Accounts,OU=EnterpriseObjects,DC=asdf,DC=pd,DC=fakedomain,DC=com SPN: F3514235-4C06-11D1-AB04-00D04FC2DCD2-GDCD/asdf.asdf.pd.fakedomain.com:50000 *' + $Hash
+
 Invoke-Kerberoast.ps1
 Author: Will Schroeder (@harmj0y), @machosec
 License: BSD 3-Clause

@@ -6,7 +6,8 @@
 	<script language="VBScript">
 	<![CDATA[
 		msgbox “hi”		
-		]]></script>
+	]]>
+</script>
 </registration>
 </scriptlet>
 
